@@ -1,3 +1,6 @@
 testing clone command
 
 git clone https://github.com/veepee09/test-repo,git
+
+Cloning into 'test-repo'...
+fatal: unable to access 'https://github.com/veepee09/test-repo.git/': Failed to connect to github.com port 443: Connection refused
